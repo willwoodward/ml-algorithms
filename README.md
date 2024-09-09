@@ -1,0 +1,1 @@
+In order to truly understand some ML Algorithms, I have studied their mathematical basis and then implemented these algorithms from scratch as I go on, to deepen my understanding.
